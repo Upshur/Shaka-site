@@ -1,0 +1,466 @@
+body{
+    background-color: #212529;
+}
+
+    
+    
+.nav-link:hover{
+    
+    border-bottom: 2px solid rgb(39, 187, 101);
+    border-radius: 1px;
+}
+#erkalogo{
+display: block;
+margin: auto;
+}
+.AnaMenü{
+    color: white;
+    margin-top: 1%;
+    font-family: 'Patua One', cursive;
+    
+
+}
+
+
+
+#texterka{
+    color:rgb(39, 187, 101); ;
+    animation:texterka 2s infinite ease-in-out;
+     animation-delay: 1s;
+}
+
+
+#butonlar{
+transition: all 0.5s ease;
+border-radius: 5px;
+box-shadow: 5px 5px 0 #35475e;;
+}
+
+#butonlar:hover{
+    background-color: rgb(45, 133, 78);
+     border: rgb(32, 204, 98);
+     color: rgb(255, 246, 246);
+     box-shadow: 5px 5px 0px #212529;
+}
+
+
+
+.icon{
+    color: rgb(45, 133, 78);
+}
+
+.açıklama{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+#font{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+animation: font 5s infinite ease-in-out;
+
+}
+.bilgiler1{
+    width: 500px;
+    margin-top: 15%;
+}
+
+.bilgiler2{
+    color:white;
+}
+.hakkında{
+    color: white;
+    text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin-top: 0%;
+
+}
+.erkahakkında{
+    color: rgb(39, 187, 101);
+}
+
+
+
+.icon{
+    color: white;
+text-align: center;   
+ margin-top: 5%;
+}
+.efed{
+    width: 200px;
+    height: 60px;
+    background-color: #292d31;
+    position: relative;
+    margin: auto;
+    margin-top: 1%;
+    color: white;
+    text-align: center;
+     border-radius: 10%;
+}
+.efed1{
+    color: white;
+    text-align: center;
+}
+
+.efed3{
+    margin-top: 12%;
+}
+
+
+
+@keyframes font{
+    0%{
+        text-shadow: 1px 1px 0px rgb(4, 247, 97);
+ 
+    }
+    1%{
+        text-shadow: 1px 1px 1px rgb(4, 247, 97);
+ 
+    }
+    2%{
+        text-shadow: 1px 1px 2px rgb(4, 247, 97);
+ 
+    }
+    3%{
+        text-shadow: 1px 1px 3px rgb(4, 247, 97);
+ 
+    }
+    4%{
+        text-shadow: 1px 1px 4px rgb(4, 247, 97);
+ 
+    }
+    5%{
+        text-shadow: 1px 1px 5px rgb(4, 247, 97);
+ 
+    }
+    6%{
+        text-shadow: 1px 1px 6px rgb(4, 247, 97);
+ 
+    }
+    7%{
+        text-shadow: 1px 1px 7px rgb(4, 247, 97);
+ 
+    }
+    8%{
+        text-shadow: 1px 1px 8px rgb(4, 247, 97);
+ 
+    }
+    9%{
+        text-shadow: 1px 1px 9px rgb(4, 247, 97);
+ 
+    }
+    10%{
+        text-shadow: 1px 1px 10px rgb(4, 247, 97);
+ 
+    }
+    11%{
+        text-shadow: 1px 1px 10px rgb(4, 247, 97);
+ 
+    }
+    12%{
+        text-shadow: 1px 1px 11px rgb(4, 247, 97);
+ 
+    }
+    13%{
+        text-shadow: 1px 1px 12px rgb(4, 247, 97);
+ 
+    }
+    14%{
+        text-shadow: 1px 1px 13px rgb(4, 247, 97);
+ 
+    }
+    15%{
+        text-shadow: 1px 1px 14px rgb(4, 247, 97);
+ 
+    }
+    16%{
+        text-shadow: 1px 1px 15px rgb(4, 247, 97);
+ 
+    }
+    17%{
+        text-shadow: 1px 1px 16px rgb(4, 247, 97);
+ 
+    }
+    18%{
+        text-shadow: 1px 1px 17px rgb(4, 247, 97);
+ 
+    }
+    19%{
+        text-shadow: 1px 1px 18px rgb(4, 247, 97);
+ 
+    }
+    20%{
+        text-shadow: 1px 1px 19px rgb(4, 247, 97);
+ 
+    }
+    21%{
+        text-shadow: 1px 1px 20px rgb(4, 247, 97);
+ 
+    }
+    22%{
+        text-shadow: 1px 1px 21px rgb(4, 247, 97);
+ 
+    }
+    23%{
+        text-shadow: 1px 1px 22px rgb(4, 247, 97);
+ 
+    }
+    24%{
+        text-shadow: 1px 1px 23px rgb(4, 247, 97);
+ 
+    }
+    25%{
+        text-shadow: 1px 1px 24px rgb(4, 247, 97);
+ 
+    }
+    26%{
+        text-shadow: 1px 1px 25px rgb(4, 247, 97);
+ 
+    }
+    27%{
+        text-shadow: 1px 1px 26px rgb(4, 247, 97);
+ 
+    }
+    28%{
+        text-shadow: 1px 1px 27px rgb(4, 247, 97);
+ 
+    }
+    29%{
+        text-shadow: 1px 1px 28px rgb(4, 247, 97);
+ 
+    }
+    30%{
+        text-shadow: 1px 1px 29px rgb(4, 247, 97);
+ 
+    }
+    31%{
+        text-shadow: 1px 1px 30px rgb(4, 247, 97);
+ 
+    }
+    32%{
+        text-shadow: 1px 1px 29px rgb(4, 247, 97);
+ 
+    }
+    33%{
+        text-shadow: 1px 1px 28px rgb(4, 247, 97);
+ 
+    }
+    34%{
+        text-shadow: 1px 1px 27px rgb(4, 247, 97);
+ 
+    }
+    35%{
+        text-shadow: 1px 1px 29px rgb(4, 247, 97);
+ 
+    }
+    36%{
+        text-shadow: 1px 1px 30px rgb(4, 247, 97);
+ 
+    }
+    37%{
+        text-shadow: 1px 1px 29px rgb(4, 247, 97);
+ 
+    }
+    38%{
+        text-shadow: 1px 1px 28px rgb(4, 247, 97);
+ 
+    }
+    39%{
+        text-shadow: 1px 1px 27px rgb(4, 247, 97);
+ 
+    }
+    40%{
+        text-shadow: 1px 1px 26px rgb(4, 247, 97);
+ 
+    }
+    41%{
+        text-shadow: 1px 1px 25px rgb(4, 247, 97);
+ 
+    }
+    42%{
+        text-shadow: 1px 1px 24px rgb(4, 247, 97);
+ 
+    }
+    43%{
+        text-shadow: 1px 1px 23px rgb(4, 247, 97);
+ 
+    }
+    44%{
+        text-shadow: 1px 1px 22px rgb(4, 247, 97);
+ 
+    }
+    45%{
+        text-shadow: 1px 1px 21px rgb(4, 247, 97);
+ 
+    }
+    46%{
+        text-shadow: 1px 1px 20px rgb(4, 247, 97);
+ 
+    }
+    47%{
+        text-shadow: 1px 1px 19px rgb(4, 247, 97);
+ 
+    }
+    48%{
+        text-shadow: 1px 1px 18px rgb(4, 247, 97);
+ 
+    }
+    49%{
+        text-shadow: 1px 1px 17px rgb(4, 247, 97);
+ 
+    }
+    50%{
+        text-shadow: 1px 1px 16px rgb(4, 247, 97);
+ 
+    }
+    51%{
+        text-shadow: 1px 1px 15px rgb(4, 247, 97);
+ 
+    }
+    52%{
+        text-shadow: 1px 1px 14px rgb(4, 247, 97);
+ 
+    }
+    53%{
+        text-shadow: 1px 1px 13px rgb(4, 247, 97);
+ 
+    }
+    54%{
+        text-shadow: 1px 1px 12px rgb(4, 247, 97);
+ 
+    }
+    55%{
+        text-shadow: 1px 1px 11px rgb(4, 247, 97);
+ 
+    }
+    56%{
+        text-shadow: 1px 1px 10px rgb(4, 247, 97);
+ 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@keyframes texterka{
+    0%{
+        position: relative;
+        bottom:1px;
+    } 
+    1%{
+     position: relative;
+     bottom:2px;
+ }  3%{
+     position: relative;
+     bottom:3px;
+ }  4%{
+     position: relative;
+     bottom:4px;
+ } 
+ 5%{
+     position: relative;
+     bottom:5px;
+ } 6%{
+  position: relative;
+  bottom:6px;
+ }  7%{
+  position: relative;
+  bottom:7px;
+ }  8%{
+  position: relative;
+  bottom:8px;
+ } 
+ 9%{
+     position: relative;
+     bottom:9px;
+ } 
+ 10%{
+  position: relative;
+  bottom:10px;
+ }  11%{
+  position: relative;
+  bottom:11px;
+ }  12%{
+  position: relative;
+  bottom:12px;
+ } 
+ 13%{
+     position: relative;
+     bottom:11px;
+ } 
+ 14%{
+  position: relative;
+  bottom:10px;
+ }  15%{
+  position: relative;
+  bottom:9px;
+ }  16%{
+  position: relative;
+  bottom:8px;
+ }  17%{
+     position: relative;
+     bottom:7px;
+ } 
+ 18%{
+  position: relative;
+  bottom:6px;
+ }  19%{
+  position: relative;
+  bottom:5px;
+ }  20%{
+  position: relative;
+  bottom:4px;
+ } 
+ 21%{
+     position: relative;
+     bottom:3px;
+ } 
+ 22%{
+  position: relative;
+  bottom:2px;
+ }  23%{
+  position: relative;
+  bottom:1px;
+ }  24%{
+  position: relative;
+  bottom:0px;
+ } 
+ }
+
+ 
